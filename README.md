@@ -1,7 +1,7 @@
 ## BMI-Calculator
 
-| Enter your name| Enter your Height |Enter your Height
-| ------------- | ------------- |
+| Enter your name| Enter your Height |
+
 | __ | __  |
 
 
