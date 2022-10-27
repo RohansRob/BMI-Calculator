@@ -1,9 +1,9 @@
 ## BMI-Calculator
-Enter your name! -
 
-Enter your Height - `in meter` here
+| Enter your name| Enter your Height |
+| ------------- | ------------- |
+| enter value  | enter value  |
 
-Enter your Weight -
 
 Get BMI :
 
